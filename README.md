@@ -1,9 +1,5 @@
 #About Me
 
-
-**CMDpro-win/CMDpro-win** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on CMD and Windows C++ Development.
 - 🌱 I’m currently learning Windows OS development and Visual Studio (Community-2022), as well as Virtual Machines(VMware workstation 17 pro).
 - 👯 I’m looking to collaborate on CMD and other Windows Development related softwares.
